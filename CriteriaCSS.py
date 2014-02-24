@@ -44,5 +44,6 @@ with open('CSSDB.txt','r') as f:
    
 with open('CSSDBCriteria.txt', 'w') as f:
     for line in newlines:
-        f.write('%s\n' % (line.rstrip('\n')))
+        line=line.rstrip(' \t\n\r')
+        f.write('%s\n' % line)
         
