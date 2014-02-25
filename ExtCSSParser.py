@@ -1,3 +1,4 @@
+#The main script for extracting CSS from links that contain external css files.
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys

@@ -1,3 +1,4 @@
+#This script is for produsing a new list of sites extracted from alexa top site list 
 import re
 
 prefix = 'http://'

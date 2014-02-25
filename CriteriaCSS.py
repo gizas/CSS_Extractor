@@ -1,3 +1,5 @@
+#This script is for produsing groups of selectors for statstiscs
+
 import re
 
 #prefix = '<tr><td>open</td><td>'

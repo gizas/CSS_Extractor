@@ -1,3 +1,5 @@
+#The main script for extracting Inline CSS from list of sites. Uses Selenium webdriver
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
