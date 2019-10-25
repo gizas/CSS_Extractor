@@ -27,6 +27,6 @@ In CSSDBCriteria.txt we provide type of css selectors from 100 first Alexa sites
 
 In selectors_from_dynatrace_jsprograms.xlsx provide stats of javascript selectors(+ jquery selectors) used in 50 javascript programs used
 
-/*ExternalCSSFinder and IntenalCSSFinder.py use Selenium automation library!
+*ExternalCSSFinder and IntenalCSSFinder.py use Selenium automation library!
 
-/*All the folder can imported in eclipse folder and those scripts can be run automated in the above order to produse css results
+*All the folder can imported in eclipse folder and those scripts can be run automated in the above order to produse css results
